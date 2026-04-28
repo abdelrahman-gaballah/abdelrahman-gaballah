@@ -47,12 +47,13 @@ I am a <b>15-year-old</b> visionary <b>Software Engineer</b> and <b>AI Researche
 
 #### 🔹 2025: Global Recognition & Certification
 * **Industry Standards:** Achieved **Huawei Certifications** in **AI**, **Big Data**, and **Cloud Computing**.
-* **Business Intelligence:** Selected for the **McKinsey Forward** program, mastering leadership and data-driven decision-making.
 * **Award Winning:** Secured **1st Place** at **DECI Summer Camp** for the most **Innovative Business Project**.
+* * **National Innovation:** Pre-finalist in **Digitopia Hackathon** (organized by **MCIT Egypt**), recognized for developing advanced technical solutions at a national competitive level.
 * **Global Innovation:** Participant in the **NASA Space Apps Challenge**, solving complex spatial data problems.
 
 #### 🔹 2026: The Research & Deep Specialization (Current)
 * **Academic Advancement:** Promoted to **Level 3 DECI Scholar** within the AI & Data Science track.
+* **Business Intelligence:** Selected for the **McKinsey Forward** program, mastering leadership and data-driven decision-making.
 * **NLP Frontiers:** Initiated specialized research into **Natural Language Processing** and predictive models.
 * **Embedded Systems:** Active competitor in the **National Robotics League**, merging AI with hardware.
 
