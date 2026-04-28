@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/abdelrahman-gaballah">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abdelrahman.gaballah.official@gmail.com">
+  <a href="mailto:abdelrahman.gaballah.official@outlook.com">
     <img src="https://img.shields.io/badge/Email_Me-A970FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
