@@ -59,16 +59,6 @@ I am a <b>15-year-old</b> visionary <b>Software Engineer</b> and <b>AI Researche
 
 ---
 
-### 🧪 Inside The Research Lab (Active Concept Development)
-
-> *My work is driven by the philosophy of "Innovation with Purpose".*
-
-* **Project SWAN (Smart Wearable Asthma Network):** A medical-grade wearable ecosystem utilizing MEMS technology for real-time monitoring and autonomous drug delivery concepts.
-* **Project AL-KHWARIZMI:** A modular Autonomous UGV (Unmanned Ground Vehicle) platform designed for reconnaissance and humanitarian mine-clearing.
-* **Trusty Ecosystem:** Architecting a high-security marketplace for verified electronics, focused on technical mediation to eliminate digital fraud.
-
----
-
 ### 📊 Performance Metrics (Real-Time Insights)
 
 <p align="center">
