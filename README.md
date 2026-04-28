@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://abdelrahman-gaballah.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Lab-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  <a href="https://abdelrahman-gaballah.com">
+    <img src="https://img.shields.io/badge/🌐_Official_Website-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/abdelrahman-gaballah">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:abdelrahman.gaballah.official@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-A970FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -40,31 +40,35 @@ A <b>15-year-old</b> visionary <b>Software Engineer</b> and <b>AI Researcher</b>
 
 ### 🚀 Professional Milestones (Timeline)
 
-- **2024 | The Foundation:**
-  - Started the journey with the **Digital Egypt Cubs Initiative (DECI)**.
-  - Mastered core programming principles and computational thinking.
-- **2025 | The Expansion:**
-  - Completed **Huawei Certified** tracks in **AI, Big Data, and Cloud Computing**.
-  - Selected for the **McKinsey Forward** program, mastering Business Intelligence and Leadership.
-  - Achieved **1st Place** at **DECI Summer Camp** for "Best Innovative Business Project".
-- **2026 | The Research Era:**
-  - Advancing to **Level 3 DECI Scholar** (AI & Data Science Track).
-  - Deep-diving into **Natural Language Processing (NLP)** and predictive modeling.
-  - Active participation in **NASA Space Apps** and **National Robotics League**.
+**2024 | The Foundation**
+* Initiated technical training with the **Digital Egypt Cubs Initiative (DECI)**.
+* Mastered core computational thinking and algorithmic problem solving.
+* Explored system-level configurations and open-source ecosystems via **Linux Mint**.
+
+**2025 | The Expansion & Recognition**
+* Achieved **Huawei Certifications** in **Artificial Intelligence**, **Big Data**, and **Cloud Computing**.
+* Selected for the **McKinsey Forward** program, focusing on leadership and data-driven business intelligence.
+* Awarded **1st Place** at the **DECI Summer Camp** for the most **Innovative Business Project**.
+* Successfully participated in the **NASA Space Apps Challenge**, developing creative solutions for global issues.
+
+**2026 | The Research & Specialization**
+* Advanced to **Level 3 DECI Scholar**, focusing on **Deep Learning** and **Data Science**.
+* Initiated deep-dive research into **Natural Language Processing (NLP)** for Arabic dialects.
+* Currently active in the **National Robotics League**, integrating AI with embedded systems.
 
 ---
 
-### 🧪 Inside The Research Lab (Active Projects)
+### 🧪 Inside The Research Lab (Active Concept Projects)
 
-> **Note:** These projects represent my focus on solving critical real-world problems.
+> These projects represent the core of my research efforts and technical interests.
 
-1.  **Project SWAN:** Engineering a Smart Wearable Medical Network designed for real-time asthma monitoring using MEMS technology.
-2.  **Project AL-KHWARIZMI:** Architecting an Autonomous UGV platform for landmine detection and reconnaissance.
-3.  **Trusty Marketplace:** Building a high-security, technical-mediation platform for verified used electronics.
+* **Project SWAN:** A Smart Wearable Medical Network utilizing MEMS and micro-fluidics for autonomous asthma monitoring and drug delivery concepts.
+* **Project AL-KHWARIZMI:** An autonomous UGV platform designed for reconnaissance and humanitarian mine-clearing operations.
+* **Project Trusty:** A secure marketplace architecture focused on verified electronics and technical mediation to eliminate fraud.
 
 ---
 
-### 📊 Engineering Metrics (GitHub Stats)
+### 📊 Engineering Metrics (Live Data)
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-gaballah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&bg_color=0D1117" />
@@ -78,27 +82,26 @@ A <b>15-year-old</b> visionary <b>Software Engineer</b> and <b>AI Researcher</b>
 ---
 
 ### 🏆 Recognitions & Industry Impact
-
-- 🥇 **DECI Excellence Award:** Awarded for maintaining top-tier performance in AI tracks.
-- 🌌 **NASA Innovator:** Recognized participant in the **NASA Space Apps Challenge**.
-- 💼 **McKinsey Global Learner:** One of the youngest learners in the leadership program.
-- 🦾 **Robotics Finalist:** Competing in national-level robotics and automation challenges.
+* 🥇 **DECI Excellence Award:** For consistent top-tier performance in AI tracks.
+* 🌌 **NASA Space Apps Innovator:** Recognized for technical creativity in spatial data challenges.
+* 💼 **McKinsey Global Learner:** One of the youngest participants to master the Forward core curriculum.
+* 🦾 **Robotics Finalist:** Competing at a national level in automation and robotics engineering.
 
 ---
 
 ### 🛡️ Core Values & Mindset
-- 🎯 **Efficiency First:** Obsessed with writing optimized, clean, and documentation-first code.
-- 🧩 **Problem Solver:** I don't just write code; I architect solutions for complex human problems.
-- 📚 **Continuous Learner:** Treating every line of code as a learning opportunity.
-- 🐧 **Linux Enthusiast:** Committed to the open-source philosophy and system-level control.
+* 🎯 **Efficiency First:** Committed to writing optimized, clean, and highly scalable code.
+* 🧩 **System Architecture:** I focus on how components interact to solve complex human problems.
+* 📚 **Continuous Learning:** Treating every project as a deep-dive into new technical territories.
+* 🐧 **Open Source Philosophy:** Leveraging the power of community-driven software for global progress.
 
 ---
 
-### 🌐 Let's Connect (Digital Footprint)
+### 🌐 Digital Footprint & Networking
 
 <p align="left">
-  <a href="https://abdelrahman-gaballah.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <a href="https://abdelrahman-gaballah.com" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=00F2FE" />
   </a>
   <a href="https://www.linkedin.com/in/abdelrahman-gaballah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -122,5 +125,6 @@ A <b>15-year-old</b> visionary <b>Software Engineer</b> and <b>AI Researcher</b>
 </p>
 
 <p align="right">
+  <img src="https://img.shields.io/badge/Status-Active_Research-00F2FE?style=flat-square" />
   <img src="https://img.shields.io/badge/Last_Updated-April_2026-blueviolet?style=flat-square" />
 </p>
