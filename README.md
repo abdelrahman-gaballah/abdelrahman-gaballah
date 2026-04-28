@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abdelrahman-gaballah.com">
+  <a href="https://abdelrahman-gaballah.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Official_Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/abdelrahman-gaballah">
@@ -91,7 +91,7 @@ I am a <b>15-year-old</b> visionary <b>Software Engineer</b> and <b>AI Researche
 ### 🌐 Digital Footprint & Professional Networking
 
 <p align="left">
-  <a href="https://abdelrahman-gaballah.com" target="_blank">
+  <a href="https://abdelrahman-gaballah.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00F2FE" />
   </a>
   <a href="https://www.linkedin.com/in/abdelrahman-gaballah" target="_blank">
