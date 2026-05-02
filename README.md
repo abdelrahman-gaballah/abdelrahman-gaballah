@@ -22,7 +22,7 @@
 ### 🧠 Executive Brief
 
 > **15-year-old** Software Engineer & AI Researcher from Egypt.  
-> 📌 **Level 3 Scholar** @ [DECI (MCIT Egypt)](https://deci.mcit.gov.eg)  
+> 📌 **Level 3 Scholar** @ [DECI (MCIT Egypt)](https://deci.gov.eg/)  
 > 🎯 Bridging **advanced mathematics** and **scalable ML architectures** into production-ready systems.
 
 ---
