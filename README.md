@@ -1,92 +1,84 @@
-<!-- Header with animated gradient -->
+<!-- Hero Section - Style 2026 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Abdelrahman%20Gaballah&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Abdelrahman%20Gaballah&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="Abdelrahman Gaballah"/>
 </p>
 
-<!-- Animated typing effect -->
+<!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=800&color=00F2FE&center=true&vCenter=true&width=800&lines=High-Performance+Software+Engineer;AI+%26+Deep+Learning+Scholar;NLP+Researcher+%26+Mathematical+Modeler;Cybersecurity+Enthusiast+%26+Linux+Advocate;Building+Next-Gen+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&random=false&width=800&lines=%E2%9A%A1+High-Performance+Software+Engineer;%F0%9F%8E%93+DECI+Level+3+Scholar+%26+AI+Researcher;%F0%9F%9A%80+Building+Next-Generation+Intelligent+Systems;%F0%9F%90%A7+Linux+Power+User+%26+Cybersecurity+Enthusiast;%F0%9F%93%9A+McKinsey+Forward+Alum&center=true&vCenter=true" alt="Typing SVG" />
 </p>
 
-<!-- Badges - Dynamic & Contact -->
+<!-- Professional Badges Bar (Dynamic) -->
 <p align="center">
-  <a href="https://abdelrahman-gaballah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00F2FE" /></a>
-  <a href="https://www.linkedin.com/in/abdelrahman-gaballah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abdelrahman.gaballah.official@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://abdelrahman-gaballah.netlify.app"><img src="https://img.shields.io/badge/Portfolio_3D-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-gaballah"><img src="https://img.shields.io/badge/LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdelrahman.gaballah.official@outlook.com"><img src="https://img.shields.io/badge/Encrypted_Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://github.com/abdelrahman-gaballah"><img src="https://img.shields.io/github/followers/abdelrahman-gaballah?label=Follow&style=for-the-badge&logo=github&color=181717" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abdelrahman-gaballah&label=Profile%20Views&style=for-the-badge&color=00F2FE" />
+  <img src="https://komarev.com/ghpvc/?username=abdelrahman-gaballah&label=Profile+Views&style=for-the-badge&color=00F2FE" />
 </p>
 
 ---
 
-### 🧠 Executive Brief
+### ✦ Executive Summary
 
-> **15-year-old** Software Engineer & AI Researcher from Egypt.  
-> 📌 **Level 3 Scholar** @ [DECI (MCIT Egypt)](https://deci.gov.eg/)  
-> 🎯 Bridging **advanced mathematics** and **scalable ML architectures** into production-ready systems.
-
----
-
-### 🧰 Core Competencies
-
-| Domain | Technologies | Level |
-|--------|--------------|-------|
-| 🧠 **Artificial Intelligence** | `Python` `NumPy` `Pandas` `Scikit-learn` `NLP` `PyTorch` | ⚡ Advanced |
-| 💻 **Software Engineering** | `Astro` `JavaScript (ES6+)` `C++` `Tailwind CSS` `HTML5/CSS3` | 🚀 Professional |
-| 🛡️ **Infrastructure & Security** | `Linux Mint` `Bash` `Git` `SQL` `Network Security` | 📈 Intermediate |
-| 📊 **Mathematical Sciences** | `Calculus` `Linear Algebra` `Probability` `Statistical Modeling` | 🎓 Academic Focus |
+> **A 15-year-old High-Performance Software Engineer & AI Researcher from Egypt.**  
+> 🎓 **Current Role:** *Level 3 AI & Data Science Scholar* at [DECI (MCIT Egypt)](https://deci.gov.eg/).  
+> 🧠 **Vision:** Architecting the bridge between **advanced mathematical models** (Calculus, Linear Algebra, Statistics) and **scalable Machine Learning systems** into production-ready, real-world software solutions.  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Technical Ecosystem (2026)
 
+| Domain | Technologies & Tools | Expertise Level |
+| :--- | :--- | :--- |
+| 🧠 **AI & Machine Learning** | `Python` `NumPy` `Pandas` `Scikit-learn` `PyTorch` `NLP` | **Advanced** |
+| 💻 **Software Engineering** | `Astro` `JavaScript (ES6+)` `C++` `Tailwind CSS` `HTML5` `Markdown` | **Professional** |
+| 🛡️ **Infrastructure & Security** | `Linux Mint` `Bash` `Git` `SQL` `Network Security` `APIs` | **Intermediate** |
+| 📊 **Mathematical Sciences** | `Calculus` `Linear Algebra` `Probabilistic Modeling` `Statistics` | **Academic** |
+
+---
+
+<!-- Tech Stack Visuals -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,js,astro,tailwind,linux,bash,git,postgresql&theme=dark" />
 </p>
 
 ---
 
-### 🗺️ Professional Journey (2024 → Present)
+### 🗺️ Strategic Professional Timeline
 
 <details>
-<summary><b>📌 2024 – Foundations</b></summary>
+<summary><b>📌 Foundational Era (2024)</b></summary>
 
-- Joined **DECI (Digital Egypt Cubs Initiative)** → Mastered algorithmic thinking  
-- Adopted **Linux Mint** as daily driver → Open-source ecosystem fluency  
-- Built strong **data structures** & **high-level programming** base  
+- Joined the **Digital Egypt Cubs Initiative (DECI)** → Mastered the core of algorithmic thinking.
+- Established **Linux Mint** as primary OS → Achieved deep fluency in open-source ecosystems.
+- Built robust foundations in **Data Structures** and **High-Level Programming** (C++/Python).
 </details>
 
 <details>
-<summary><b>🏆 2025 – Recognition & Awards</b></summary>
+<summary><b>🏆 Acceleration & Global Recognition (2025)</b></summary>
 
-- Earned **Huawei Certifications** (AI, Big Data, Cloud Computing)  
-- 🥇 **1st Place** @ DECI Summer Camp – *Most Innovative Business Project*  
-- 📍 Pre‑finalist @ **Digitopia Hackathon** (MCIT Egypt) – national level  
-- 🌍 Participant @ **NASA Space Apps Challenge** – spatial data solutions  
+- 📜 Earned **Huawei Certifications** in **AI**, **Big Data**, and **Cloud Computing** (Industry Standard).
+- 🥇 **1st Place Winner** @ DECI Summer Camp – Award for *Most Innovative Business Project*.
+- 📍 **National Pre-Finalist** @ *Digitopia Hackathon* (Organized by MCIT Egypt).
+- 🌍 Global Participant @ **NASA Space Apps Challenge** – Solved complex spatial data problems.
 </details>
 
 <details open>
-<summary><b>🚀 2026 – Research & Deep Specialization (Current)</b></summary>
+<summary><b>🚀 Research & Specialization Era (2026 - Present)</b></summary>
 
-- Promoted to **Level 3 DECI Scholar** (AI & Data Science track)  
-- Selected for **McKinsey Forward Program** – leadership & data‑driven decisions  
-- Initiated **NLP research** – predictive models & language understanding  
-- Active competitor @ **National Robotics League** – AI + embedded systems  
+- 🎓 Academic Promotion to **Level 3 DECI Scholar** (AI & Data Science Track).
+- 💼 Selected for the **McKinsey Forward Program** – Mastering Leadership & Data-Driven Decision Making.
+- 🔬 Deep-Specialization Research: Focused on **Natural Language Processing (NLP)** & Predictive Modeling.
+- 🤖 Active Competitor @ **National Robotics League** – Merging AI logic with embedded hardware systems.
 </details>
 
 ---
 
-### 📈 Real‑Time Analytics
+### 📊 Live Performance Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-gaballah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-gaballah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&bg_color=0D1117&ring_color=00F2FE&include_all_commits=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-gaballah&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&bg_color=0D1117" />
 </p>
 
@@ -94,69 +86,88 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-gaballah&theme=tokyonight&hide_border=true&stroke=00F2FE&background=0D1117&ring=00F2FE&currStreakLabel=00F2FE" />
 </p>
 
-<!-- Activity Graph (modern & rich) -->
+<!-- Activity Graph + Animated 3D Grid -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-gaballah&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-gaballah&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF&area_color=00F2FE" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-gaballah&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF&area_color=00F2FE" alt="GitHub Activity Graph" />
+  </picture>
 </p>
 
 ---
 
-### 🏅 Recognitions & Impact
+### 🏅 Global Recognitions & Impact
 
-| | | |
-|:---:|:---:|:---:|
-| 🥇 **DECI Excellence Award** | 🌌 **NASA Space Apps Innovator** | 💼 **McKinsey Global Alum** |
-| Consistent top‑tier performance | Creative spatial data problem‑solving | One of youngest McKinsey Forward scholars |
-| 🦾 **Robotics National Finalist** | 📜 **Huawei Certified (AI, Cloud, Big Data)** | 🧠 **Level 3 Scholar – AI Track** |
-| Competing in high‑stakes automation | Industry‑recognized credentials | Advanced research standing |
-
----
-
-### 🔥 Featured Projects
-
-> *Replace these links with your actual project repos*
-
-<p align="center">
-  <a href="https://github.com/abdelrahman-gaballah/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-gaballah&repo=project-1&theme=tokyonight&hide_border=true&title_color=00F2FE" />
-  </a>
-  <a href="https://github.com/abdelrahman-gaballah/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-gaballah&repo=project-2&theme=tokyonight&hide_border=true&title_color=00F2FE" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr align="center">
+      <td width="33%"><b>🥇 DECI Excellence Award</b><br/><sub>Consistent Top-Tier Technical Performance</sub></td>
+      <td width="33%"><b>🌌 NASA Space Apps Innovator</b><br/><sub>Creative Spatial Data Problem-Solving</sub></td>
+      <td width="33%"><b>💼 McKinsey Global Alum</b><br/><sub>One of Youngest Scholars Worldwide</sub></td>
+    </tr>
+    <tr align="center">
+      <td><b>🦾 Robotics National Finalist</b><br/><sub>High-Stakes Automation Engineering</sub></td>
+      <td><b>📜 Huawei Certified Professional</b><br/><sub>AI, Cloud, & Big Data Expertise</sub></td>
+      <td><b>🧠 Level 3 DECI Scholar</b><br/><sub>Elite AI & Data Science Track</sub></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🧭 Core Engineering Values
+### 🔥 Pinnacle Projects
 
-- ⚡ **Performance-first** – clean, optimized, documented code  
-- 🧩 **Modular architecture** – solving big problems through small components  
-- 📚 **Continuous learning** – every line of code = new mastery  
-- 🐧 **Open‑source soul** – knowledge shared is knowledge multiplied  
+> *Live status:* These placeholders can be instantly replaced with your actual repositories.
+
+<table align="center">
+  <tr align="center">
+    <td width="50%">
+        <a href="https://github.com/abdelrahman-gaballah/project-1">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-gaballah&repo=project-1&theme=tokyonight&hide_border=true&title_color=00F2FE" />
+        </a>
+    </td>
+    <td width="50%">
+        <a href="https://github.com/abdelrahman-gaballah/project-2">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-gaballah&repo=project-2&theme=tokyonight&hide_border=true&title_color=00F2FE" />
+        </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌍 Connect & Follow
+### 🧠 Engineering Philosophy & Core Values
+
+- ⚡ **Performance-First Engineering:** Writing clean, efficient, and well-documented code.
+- 🧩 **Modular Architecture:** Solving complex problems through intelligent component design.
+- 📚 **Relentless Learning:** Every line of code is a step toward mastery.
+- 🐧 **Open-Source Advocacy:** Fostering innovation through collaboration and knowledge sharing.
+
+---
+
+### 🌐 Digital Ecosystem & Connect
 
 <p align="left">
-  <a href="https://abdelrahman-gaballah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=00F2FE" /></a>
-  <a href="https://www.linkedin.com/in/abdelrahman-gaballah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/abdelrahman.gaballah.official"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/abdelrahman_gaballah_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://abdelrahman-gaballah.netlify.app"><img src="https://img.shields.io/badge/Immersive_Portfolio-000000?style=for-the-badge&logo=react&logoColor=00F2FE" /></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-gaballah"><img src="https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/abdelrahman.gaballah.official"><img src="https://img.shields.io/badge/Tech_Community-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/abdelrahman_gaballah_"><img src="https://img.shields.io/badge/Coding_Life-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code is the tool, logic is the structure, and data is the heartbeat of the future."</i>
+  <i>"Code is the instrument, logic is the composition, and data is the heartbeat of the future."</i>
+  <br/>
+  <b>Always building. Always optimizing. Relentlessly curious.</b>
 </p>
 
 <p align="right">
-  <img src="https://img.shields.io/badge/STATUS-Actively%20Researching-00F2FE?style=flat-square" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20Data%20Science-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Actively_Researching-00F2FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI_&_Data_Science-blueviolet?style=flat-square" />
 </p>
 
-<!-- Wavy footer -->
+<!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
 </p>
