@@ -102,21 +102,6 @@
 
 ---
 
-### 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/abdelrahman-gaballah">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-gaballah&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&title_color=00F2FE" />
-  </a>
-  <a href="https://github.com/abdelrahman-gaballah">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-gaballah&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&title_color=00F2FE" />
-  </a>
-</p>
-
-> **Note:** Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names.
-
----
-
 ### 🧭 Core Values
 
 - ⚡ **Performance-first** – clean, optimized, documented code  
