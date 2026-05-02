@@ -1,121 +1,162 @@
+<!-- Header with animated gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00F2FE&height=200&section=header&text=Abdelrahman%20Gaballah&fontSize=70&fontAlignY=45&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Abdelrahman%20Gaballah&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white" alt="Header" />
+</p>
+
+<!-- Animated typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=800&color=00F2FE&center=true&vCenter=true&width=800&lines=High-Performance+Software+Engineer;AI+%26+Deep+Learning+Scholar;NLP+Researcher+%26+Mathematical+Modeler;Cybersecurity+Enthusiast+%26+Linux+Advocate;Building+Next-Gen+Intelligent+Systems" alt="Typing SVG" />
+</p>
+
+<!-- Badges - Dynamic & Contact -->
+<p align="center">
+  <a href="https://abdelrahman-gaballah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00F2FE" /></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-gaballah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdelrahman.gaballah.official@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/abdelrahman-gaballah"><img src="https://img.shields.io/github/followers/abdelrahman-gaballah?label=Follow&style=for-the-badge&logo=github&color=181717" /></a>
+  <img src="https://komarev.com/ghpvc/?username=abdelrahman-gaballah&label=Profile%20Views&style=for-the-badge&color=00F2FE" />
+</p>
+
+---
+
+### 🧠 Executive Brief
+
+> **15-year-old** Software Engineer & AI Researcher from Egypt.  
+> 📌 **Level 3 Scholar** @ [DECI (MCIT Egypt)](https://deci.mcit.gov.eg)  
+> 🎯 Bridging **advanced mathematics** and **scalable ML architectures** into production-ready systems.
+
+---
+
+### 🧰 Core Competencies
+
+| Domain | Technologies | Level |
+|--------|--------------|-------|
+| 🧠 **Artificial Intelligence** | `Python` `NumPy` `Pandas` `Scikit-learn` `NLP` `PyTorch` | ⚡ Advanced |
+| 💻 **Software Engineering** | `Astro` `JavaScript (ES6+)` `C++` `Tailwind CSS` `HTML5/CSS3` | 🚀 Professional |
+| 🛡️ **Infrastructure & Security** | `Linux Mint` `Bash` `Git` `SQL` `Network Security` | 📈 Intermediate |
+| 📊 **Mathematical Sciences** | `Calculus` `Linear Algebra` `Probability` `Statistical Modeling` | 🎓 Academic Focus |
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 🗺️ Professional Journey (2024 → Present)
+
+<details>
+<summary><b>📌 2024 – Foundations</b></summary>
+
+- Joined **DECI (Digital Egypt Cubs Initiative)** → Mastered algorithmic thinking  
+- Adopted **Linux Mint** as daily driver → Open-source ecosystem fluency  
+- Built strong **data structures** & **high-level programming** base  
+</details>
+
+<details>
+<summary><b>🏆 2025 – Recognition & Awards</b></summary>
+
+- Earned **Huawei Certifications** (AI, Big Data, Cloud Computing)  
+- 🥇 **1st Place** @ DECI Summer Camp – *Most Innovative Business Project*  
+- 📍 Pre‑finalist @ **Digitopia Hackathon** (MCIT Egypt) – national level  
+- 🌍 Participant @ **NASA Space Apps Challenge** – spatial data solutions  
+</details>
+
+<details open>
+<summary><b>🚀 2026 – Research & Deep Specialization (Current)</b></summary>
+
+- Promoted to **Level 3 DECI Scholar** (AI & Data Science track)  
+- Selected for **McKinsey Forward Program** – leadership & data‑driven decisions  
+- Initiated **NLP research** – predictive models & language understanding  
+- Active competitor @ **National Robotics League** – AI + embedded systems  
+</details>
+
+---
+
+### 📈 Real‑Time Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-gaballah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-gaballah&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=High-Performance+Software+Engineering;Advanced+AI+%26+Deep+Learning+Scholar;NLP+Research+%26+Mathematical+Modeling;Cybersecurity+Enthusiast+%26+Linux+Power+User;Building+Next-Gen+Intelligent+Systems" alt="Typing SVG" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-gaballah&theme=tokyonight&hide_border=true&stroke=00F2FE&background=0D1117&ring=00F2FE&currStreakLabel=00F2FE" />
 </p>
 
+<!-- Activity Graph (modern & rich) -->
 <p align="center">
-  <a href="https://abdelrahman-gaballah.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Official_Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-gaballah&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🏅 Recognitions & Impact
+
+| | | |
+|:---:|:---:|:---:|
+| 🥇 **DECI Excellence Award** | 🌌 **NASA Space Apps Innovator** | 💼 **McKinsey Global Alum** |
+| Consistent top‑tier performance | Creative spatial data problem‑solving | One of youngest McKinsey Forward scholars |
+| 🦾 **Robotics National Finalist** | 📜 **Huawei Certified (AI, Cloud, Big Data)** | 🧠 **Level 3 Scholar – AI Track** |
+| Competing in high‑stakes automation | Industry‑recognized credentials | Advanced research standing |
+
+---
+
+### 🔥 Featured Projects
+
+> *Replace these links with your actual project repos*
+
+<p align="center">
+  <a href="https://github.com/abdelrahman-gaballah/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-gaballah&repo=project-1&theme=tokyonight&hide_border=true&title_color=00F2FE" />
   </a>
-  <a href="https://www.linkedin.com/in/abdelrahman-gaballah">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdelrahman.gaballah.official@outlook.com">
-    <img src="https://img.shields.io/badge/Email_Me-A970FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/abdelrahman-gaballah/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-gaballah&repo=project-2&theme=tokyonight&hide_border=true&title_color=00F2FE" />
   </a>
 </p>
 
 ---
 
-### 🏛️ Executive Summary & Strategic Vision
-<p align="justify">
-I am a <b>15-year-old</b> visionary <b>Software Engineer</b> and <b>AI Researcher</b> from Egypt. Currently serving as a high-performing <b>Level 3 Scholar</b> at <b>DECI (MCIT Egypt)</b>, my work focuses on the intersection of advanced <b>Mathematics</b>, <b>Computational Statistics</b>, and scalable <b>Machine Learning</b> architectures. I am committed to transforming complex theoretical research into robust, real-world software solutions that redefine human-machine interaction.
-</p>
+### 🧭 Core Engineering Values
+
+- ⚡ **Performance-first** – clean, optimized, documented code  
+- 🧩 **Modular architecture** – solving big problems through small components  
+- 📚 **Continuous learning** – every line of code = new mastery  
+- 🐧 **Open‑source soul** – knowledge shared is knowledge multiplied  
 
 ---
 
-### 🧬 Technical Ecosystem & Radar (Skill Matrix)
-
-| **Domain** | **Specialized Technologies & Frameworks** | **Expertise Level** |
-| :--- | :--- | :--- |
-| **🧠 Artificial Intelligence** | `Python` `NumPy` `Pandas` `Scikit-learn` `NLP` `Deep Learning` | **Advanced** |
-| **💻 Engineering** | `Astro` `JavaScript (ES6+)` `C++` `Tailwind CSS` `HTML5/CSS3` | **Professional** |
-| **🛡️ Infrastructure** | `Linux Mint` `Bash Scripting` `Git/GitHub` `SQL` `Net-Sec` | **Intermediate** |
-| **📊 Mathematical Science** | `Calculus` `Linear Algebra` `Probabilistic Modeling` | **Academic Focus** |
-
----
-
-### 🚀 Professional Milestones (2024 - 2026 Timeline)
-
-#### 🔹 2024: The Foundations of Excellence
-* **DECI Initiation:** Joined the **Digital Egypt Cubs Initiative** to master algorithmic thinking.
-* **System Mastery:** Developed a deep understanding of open-source environments via **Linux Mint**.
-* **Core Logic:** Solidified a strong foundation in high-level programming and data structures.
-
-#### 🔹 2025: Global Recognition & Certification
-* **Industry Standards:** Achieved **Huawei Certifications** in **AI**, **Big Data**, and **Cloud Computing**.
-* **Award Winning:** Secured **1st Place** at **DECI Summer Camp** for the most **Innovative Business Project**.
-* **National Innovation:** Pre-finalist in **Digitopia Hackathon** (organized by **MCIT Egypt**), recognized for developing advanced technical solutions at a national competitive level.
-* **Global Innovation:** Participant in the **NASA Space Apps Challenge**, solving complex spatial data problems.
-
-#### 🔹 2026: The Research & Deep Specialization (Current)
-* **Academic Advancement:** Promoted to **Level 3 DECI Scholar** within the AI & Data Science track.
-* **Business Intelligence:** Selected for the **McKinsey Forward** program, mastering leadership and data-driven decision-making.
-* **NLP Frontiers:** Initiated specialized research into **Natural Language Processing** and predictive models.
-* **Embedded Systems:** Active competitor in the **National Robotics League**, merging AI with hardware.
-
----
-
-### 📊 Performance Metrics (Real-Time Insights)
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-gaballah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&bg_color=0D1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-gaballah&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-gaballah&theme=tokyonight&hide_border=true&stroke=00F2FE&background=0D1117&ring=00F2FE&currStreakLabel=00F2FE" alt="Streak Stats" />
-</p>
-
----
-
-### 🏆 Recognitions & Industry Impact
-* 🥇 **DECI Excellence Award:** For maintaining consistent top-tier technical performance.
-* 🌌 **NASA Innovator:** Recognized for creative problem-solving in international data challenges.
-* 💼 **McKinsey Global Alum:** One of the youngest scholars globally to master the leadership curriculum.
-* 🦾 **Robotics Finalist:** Competing nationally in high-stakes automation and engineering projects.
-
----
-
-### 🛡️ Core Values & Engineering Mindset
-* 🎯 **Efficiency First:** Obsessed with writing clean, optimized, and documentation-driven code.
-* 🧩 **Architectural Thinking:** Focusing on how modular components interact to solve massive problems.
-* 📚 **Continuous Learning:** Treating every line of code as an opportunity to master a new concept.
-* 🐧 **Open Source Soul:** Believing in the power of shared knowledge and collaborative engineering.
-
----
-
-### 🌐 Digital Footprint & Professional Networking
+### 🌍 Connect & Follow
 
 <p align="left">
-  <a href="https://abdelrahman-gaballah.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00F2FE" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdelrahman-gaballah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/abdelrahman.gaballah.official" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook_Official-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/abdelrahman_gaballah_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram_Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="https://abdelrahman-gaballah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=00F2FE" /></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-gaballah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/abdelrahman.gaballah.official"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/abdelrahman_gaballah_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <i>"Code is the tool, Logic is the structure, and Data is the heartbeat of the future."</i>
+  <i>"Code is the tool, logic is the structure, and data is the heartbeat of the future."</i>
 </p>
 
 <p align="right">
-  <img src="https://img.shields.io/badge/Status-Actively_Researching-00F2FE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Current_Era-AI_%26_Data_Science-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-Actively%20Researching-00F2FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20Data%20Science-blueviolet?style=flat-square" />
+</p>
+
+<!-- Wavy footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
 </p>
