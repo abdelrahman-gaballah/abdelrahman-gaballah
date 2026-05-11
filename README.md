@@ -18,7 +18,7 @@
 
 ### 🧠 Executive Brief
 
-**15-year-old Software Engineer & AI Researcher from Egypt**  
+**Software Engineer & AI Researcher from Egypt**  
 🎓 **Level 3 DECI Scholar** (AI & Data Science track) – MCIT Egypt  
 🔗 Bridging advanced mathematics (Calculus, Linear Algebra, Statistics) with scalable ML architectures to build production-grade intelligent systems.
 
