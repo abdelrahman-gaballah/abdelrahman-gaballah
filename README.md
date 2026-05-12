@@ -16,10 +16,6 @@
 
 ---
 
-/// ============================================================
-///  ABDELRAHMAN GABALLAH – THE SHORT VERSION (no fluff)
-/// ============================================================
-
 I'm from Egypt.  
 - I write code that actually runs in production.  
 - I learn math because it makes ML work – not for a certificate.  
@@ -96,7 +92,7 @@ Currently: **Level 3 DECI Scholar** (AI & Data Science) – MCIT Egypt.
 
 ---
 
-## 🧭 HOW I WORK (my rules, not ChatGPT's)
+## 🧭 HOW I WORK
 
 - Performance first → if it's slow, it's wrong.  
 - Break big problems into small, stupid pieces.  
